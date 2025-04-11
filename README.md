@@ -1,6 +1,6 @@
 # int305-054-assignment
 
-This template should help get you started developing with Vue 3 in Vite.
+Design [PDF](./int305-054-assignment.pdf)
 
 ## Recommended IDE Setup
 
@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+
